@@ -5,6 +5,6 @@
 <br>第二步，打开机器人主程序：chinarobotlab-wxchat-pc.exe
 <br>第三步，打开微信
 <br>第四步，登录第三方应用市场（各种丰富应用，提供免费HttpApi接口，可二次开发各种丰富应用）
-<br>
-表情代码：<br>
-<img src="https://raw.githubusercontent.com/chinarobotlab/wxchat-pc/master/emoji.jpg"><br>
+<br><br><br>
+<br>表情代码：<br>
+<br><img src="https://raw.githubusercontent.com/chinarobotlab/wxchat-pc/master/emoji.jpg"><br>
