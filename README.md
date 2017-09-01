@@ -1,7 +1,7 @@
 # wxchat-pc
 <br>
 <br>
-<br>第一步，安装微信 WeChatSetup2.4.1.79.exe ，切记关闭自动更新。
+<br>第一步，安装微信 WeChatSetup2.4.5.73.exe ，切记关闭自动更新。
 <br>第二步，打开机器人主程序：chinarobotlab-wxchat-pc.exe
 <br>第三步，打开微信
 <br>第四步，登录第三方应用市场（各种丰富应用，提供免费HttpApi接口，可二次开发各种丰富应用）
